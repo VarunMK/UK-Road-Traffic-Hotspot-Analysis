@@ -1,5 +1,5 @@
 # Road Traffic Accident Hotspot Identification
-This Project is part of Data Analytics (UE19CS204) Course at PES University.
+This Project is part of Data Analytics (UE19CS312) Course at PES University.
 
 ## Team Members:
 * Harshita Vidapanakal
